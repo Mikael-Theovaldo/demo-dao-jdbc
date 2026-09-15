@@ -1,4 +1,4 @@
-package java_study.model.entities;
+package java_study.model.dao.impl.entities;
 
 import java.io.Serializable;
 import java.util.Objects;

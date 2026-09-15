@@ -1,6 +1,6 @@
-package java_study.model.DAO;
+package java_study.model.dao;
 
-import java_study.model.entities.Department;
+import java_study.model.dao.impl.entities.Department;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
-package java_study.model.DAO;
+package java_study.model.dao;
 
-import java_study.model.entities.Seller;
+import java_study.model.dao.impl.entities.Seller;
 
 import java.util.List;
 
